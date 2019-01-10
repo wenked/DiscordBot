@@ -1,4 +1,4 @@
-const token = 'NTMyMzMxNjI5NjU0NDQyMDE0.Dxa8ng.vvjq9rPo_wS3-EvIjZfoeTJArXg'
+const token = 'zzzTMyMzMxNjI5NjU0NDQyMDE0.Dxa8ng.vvjq9rPo_wS3-EvIjZfoeTJArXdfdfdfdfdf'
 const Discord = require('discord.js')
 const MediaBall = require('./novamedia.js')
 
